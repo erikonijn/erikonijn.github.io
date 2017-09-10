@@ -1,0 +1,7 @@
+<div class="imgwrap">
+    {% for post in site.posts %}
+    <a class="img" href="{{ site.baseurl }}{{ post.url }}" style="background-image:url({{ site.baseurl }}/assets/thumb/{{post.img}})">
+<!--        <img src="{{ site.baseurl }}/assets/thumb/{{post.img}}" />-->
+    </a>
+    {% endfor %}
+</div>

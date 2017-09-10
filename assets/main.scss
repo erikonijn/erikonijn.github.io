@@ -162,6 +162,9 @@ a {
 
 .hdimgwrap{
     text-align: center;
+    a {
+        background-color: rgba(0,0,0,0);
+    }
     .hdimg {
         max-width: 100%;
         max-height: 20em;

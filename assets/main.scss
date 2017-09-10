@@ -199,6 +199,7 @@ a {
     .titlebar {
         display: inline-block;
         height: 12em;
+        position: absolute;
         .menuL {
             display: block;
             text-align: center;
@@ -209,6 +210,9 @@ a {
     }
     .wrap {
         margin-top: 7.75em !important;
+    }
+    h3 {
+        margin-top: 0!important;
     }
 }
 

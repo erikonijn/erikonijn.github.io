@@ -7,7 +7,7 @@ category: Home
 
 ## who?
 
-Me. 16 y/o kiddo with an interest in photo manipulation, design, filmmaking, programming, web dev, video editing, playing music, and so forth.
+Me. Young kiddo with an interest in photo manipulation, design, filmmaking, programming, web dev, video editing, playing music, and so forth.
 
 ## where?
 

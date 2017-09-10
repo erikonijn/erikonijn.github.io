@@ -1,0 +1,7 @@
+<div class="imgwrap">
+    {% for post in site.categories.video %}
+    <a class="img" href="{{ site.baseurl }}{{ post.url }}" style="background-image:url({{post.thumb}})">
+<!--        <img src="{{ site.baseurl }}/assets/thumb/{{post.img}}" />-->
+    </a>
+    {% endfor %}
+</div>

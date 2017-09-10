@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+    {% include headinfo.html %}
+</head>
+<body>
+    {% include titlebar.html %}
+    <div class="body">
+        <div class="wrap">
+            <div class="hdimgwrap">
+                <iframe width="100%" height="540em" src="https://www.youtube.com/embed/{{ page.ytid }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+            {{ content }}
+        </div>
+    </div>
+</body>
+</html>

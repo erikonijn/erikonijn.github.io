@@ -6,4 +6,4 @@ img: aesthetic.png
 category: ps
 ---
 
-Experimenting with layer masks and vaporwave looks.
+Experimenting with layer masks and vaporwave looks. Also trying to replicate that metallic 3d text-effect, which I think ended up looking pretty good.

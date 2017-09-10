@@ -6,4 +6,4 @@ img: pussys-dead.png
 category: ps
 ---
 
-Inspired by Autolux's latest album *[Pussy's Dead](http://www.autolux.net/)*.
+Inspired by Autolux's latest album *[Pussy's Dead](http://www.autolux.net/)* (great album btw).

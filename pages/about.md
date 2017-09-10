@@ -19,6 +19,8 @@ twitter: **[@erikonijn](https://twitter.com/erikonijn)**
 
 youtube: **[Erik Konijn](https://www.youtube.com/channel/UC6NGVtDYPDnPO3sxpAfRhBw)**
 
+Send me a message on any of these platforms (maybe not youtube) for any photoshop request or the like you might have if you have them.
+
 ## what?
 
 This site is for things I make when I make them.

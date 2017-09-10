@@ -193,7 +193,22 @@ a {
 
 @media only screen and (max-width: 1070px) {  //collapse menu at width 1420px or smaller (that's when menu breaks)
     .title {
-        display: none;
+        display: none!important;
+//        visibility: hidden;
+    }
+    .titlebar {
+        display: inline-block;
+        height: 12em;
+        .menuL {
+            display: block;
+            text-align: center;
+        }
+        a.links {
+            display: block;
+        }
+    }
+    .wrap {
+        margin-top: 7.75em !important;
     }
 }
 

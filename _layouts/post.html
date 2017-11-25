@@ -9,6 +9,9 @@
         <div class="wrap">
             <div class="hdimgwrap">
                 <a href="{{ site.baseurl }}/assets/hd/{{page.img}}"><img class="hdimg" src="{{ site.baseurl }}/assets/hd/{{page.img}}" /></a>
+                {% if page.img2 %}
+                    <a href="{{ site.baseurl }}/assets/hd/{{page.img2}}"><img class="hdimg" src="{{ site.baseurl }}/assets/hd/{{page.img2}}" /></a>
+                {% endif %}
             </div>
             <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
             {{ content }}

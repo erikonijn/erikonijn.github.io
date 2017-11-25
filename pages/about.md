@@ -37,4 +37,4 @@ This website was written in Brackets and runs on Jekyll.
 
 ## why?
 
-Why not?
+That's a stupid question and you know it.

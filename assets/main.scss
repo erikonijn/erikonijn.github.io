@@ -25,6 +25,10 @@ body {
     font-family: Product Sans;
     background-color: #fff;
     color: $prime;
+    
+    &.home {
+        overflow-y: hidden;
+    }
 }
 
 a {

@@ -5,8 +5,10 @@
 $prime: #000; //primary color
 $prime2: #000; //darker primary color, used for hover effect, click effects, etc
 $secondary: #fff;
-$tertiary: #fff;
-$tertiary2: #fff;
+$insta: #962fbf;
+$yt: #f00;
+$sc: #ff7700;
+$tw: #1da1f2;
 
 @mixin border-box() {
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -24,10 +26,10 @@ body {
     min-height: 100vh;
     font-family: Product Sans;
     background-color: #fff;
-    color: $prime;
+    color: black;
     
     &.home {
-        overflow-y: hidden;
+//        overflow-y: hidden;
     }
 }
 
@@ -36,7 +38,7 @@ a {
 }
 
 .titlebar {
-    background-color: $secondary;
+    background-color: white;
     height: 4.5em;
     z-index: 2;
     width: 98%;
@@ -44,12 +46,12 @@ a {
     display: flex;
     justify-content: center; /* align horizontal */
     align-items: center !important; /* align vertical */
-    border-bottom: 5px solid $prime;
+    border-bottom: 5px solid black;
     position: fixed;
     
     a {
         align-items: center !important; /* align vertical */
-        color: $prime;
+        color: black;
         font-size: 3.1em;
         padding: 0 .5em;
         @include border-box();
@@ -117,25 +119,25 @@ a {
         
     strong {
         padding: 0 .3em;
-        background-color: $prime;
-        color: $secondary;
+        background-color: black;
+        color: white;
     }
 
     em {
         padding: 0 .3em;
-        background-color: $prime;
-        color: $secondary;
+        background-color: black;
+        color: white;
         font-weight: 900;
     }
     
     a {
         padding: 0 .3em;
-        background-color: $prime;
-        color: $secondary;
+        background-color: black;
+        color: white;
         
         &:active {
-            background-color: $secondary;
-            color: $prime;
+            background-color: white;
+            color: black;
         }
         
         &.img {
@@ -143,35 +145,35 @@ a {
         }
         
         &[href="https://instagram.com/erikonijn/"] {
-            background-color: #962fbf;
-            box-shadow: 0 0px 0 $secondary inset;
-            transition: box-shadow .15s, color .1s;
+            background-color: $insta;
+            box-shadow: 0 0px 0 white inset, 0 0px 0 $insta;
+            transition: box-shadow .1s, color .1s;
             
             &:hover {
-                color: black;
-                box-shadow: 0 -2.5em 0 $secondary inset;
+                color: $insta;
+                box-shadow: 0 -2.5em 0 white inset, 5px 5px 0 $insta;
             }
         }
         
         &[href="https://www.youtube.com/channel/UC6NGVtDYPDnPO3sxpAfRhBw/"] {
-            background-color: #ff0000;
-            box-shadow: 0 0px 0 $secondary inset;
+            background-color: $yt;
+            box-shadow: 0 0px 0 white inset, 0 0px 0 $yt;
             transition: box-shadow .15s, color .1s;
             
             &:hover {
-                color: black;
-                box-shadow: 0 -2.5em 0 $secondary inset;
+                color: $yt;
+                box-shadow: 0 -2.5em 0 white inset, 5px 5px 0 $yt;
             }
         }
         
-        &[href="https://twitter.com/erikonijn/"] {
-            background-color: #1da1f2;
-            box-shadow: 0 0px 0 $secondary inset;
+        &[href="https://soundcloud.com/erikonijn"] {
+            background-color: $sc;
+            box-shadow: 0 0px 0 white inset, 0 0px 0 $sc;
             transition: box-shadow .15s, color .1s;
             
             &:hover {
-                color: black;
-                box-shadow: 0 -2.5em 0 $secondary inset;
+                color: $sc;
+                box-shadow: 0 -2.5em 0 white inset, 5px 5px 0 $sc;
             }
         }
     }
@@ -250,29 +252,6 @@ a {
                 font-weight: 900;
             }
         }
-    }
-}
-
-#gototop {
-    background-color: $prime;
-    font-weight: 900;
-    width: 6em;
-    padding: .625em .5em;
-    font-size: 1.2em;
-    position: fixed;
-    z-index: 0;
-    top: 0;
-    right: 0;
-    margin-top: 2em;
-    margin-right: 1.5em;
-    border-radius: 1px;
-    
-    a {
-        color: white;
-    }
-    
-    &:active {
-        background-color: $prime2;
     }
 }
 

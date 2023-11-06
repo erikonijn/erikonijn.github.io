@@ -1,6 +1,6 @@
 ---
 title: nophotosgigs
-permalink: "/"
+permalink: "/gigs"
 layout: nophotosgigs
 category: Home
 ---

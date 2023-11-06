@@ -31,3 +31,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Plugins!
 gem 'jekyll-seo-tag'
 gem 'jekyll-redirect-from'
+gem "webrick", "~> 1.8"

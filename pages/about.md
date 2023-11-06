@@ -1,42 +1,16 @@
 ---
 title: about
 permalink: "/about"
-layout: about
+layout: home
 category: Home
 ---
 
-## who?
+[**erik konijn**](/)
 
-Me. Young kiddo with an interest in photo manipulation, design, filmmaking, programming, web dev, video editing, playing music, and so forth.
+I'm Erik. I've done basically everything under the media sun at this point: filmmaking, music, audio, video editing, cinematography, visual design, web development, writing & scriptwriting, etc....
 
-## where?
+I'm self taught in many things - and I studied film in Denmark + media in Ireland.
 
-You can also find me on:
+I taught myself to produce & mix music and audio during 2021-2023 and have been working as freelance producer & audio engineer.
 
-instagram: **[@erikonijn](https://instagram.com/erikonijn)**
-
-youtube: **[Erik Konijn](https://www.youtube.com/channel/UC6NGVtDYPDnPO3sxpAfRhBw)**
-
-soundcloud: **[@erikonijn](https://soundcloud.com/erikonijn/)**
-
-If you want to message me try Instagram, or maybe leave a nice supportive comment on my YouTube videos.
-
-## what?
-
-This site is to showcase some things I make when I make them.
-
-## when?
-
-I don't really have a schedule. There might be hours between content, there might be months.
-
-## how?
-
-I use Adobe Photoshop or (rarely Illustrator) for making designs and Premiere Pro/After Effects for editing my videos. Sometimes AE for design stuff too. My DAW of choice is Ableton but I prefer Audition for general audio editing I think.
-
-My workstation is a Windows 10 pc with a Ryzen 7 3700x and a Radeon R9-280x with 16 gb RAM.
-
-This website was written in Brackets and runs on Jekyll.
-
-## why?
-
-That's a stupid question and you know it.
+I was born & raised in Luxembourg with Danish & Dutch parents (I speak English + Danish + Dutch + German) - lots of fun to experience this many cultures.

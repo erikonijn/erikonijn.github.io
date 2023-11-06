@@ -24,21 +24,22 @@ $tw: #1da1f2;
 body {
 //    display: flex;
     min-height: 100vh;
-    font-family: Product Sans;
-    background-color: #fff;
+    font-family: Courier Prime;
+    background-color: #ffc13b;
     color: black;
-    
-    &.home {
-//        overflow-y: hidden;
-    }
 }
 
 a {
     text-decoration: none;
+    font-style: italic;
+    color: white;
+    
+    &:hover {
+        color: black;
+    }
 }
 
 .titlebar {
-    background-color: white;
     height: 4.5em;
     z-index: 2;
     width: 98%;
@@ -46,212 +47,25 @@ a {
     display: flex;
     justify-content: center; /* align horizontal */
     align-items: center !important; /* align vertical */
-    border-bottom: 5px solid black;
     position: fixed;
     
     a {
-        align-items: center !important; /* align vertical */
-        color: black;
-        font-size: 3.1em;
-        padding: 0 .5em;
-        @include border-box();
-        height: 100%;
-        cursor: pointer;
-        font-weight: 500;
-        border-bottom: 0px solid black;
-        transition: border .05s;
         
-        &.title {
-            font-weight: 900;
-        }
-        
-        &:hover {
-//            background-color: #ddd;
-            border-bottom: 5px solid black;
-        }
     }
     .title {
-        left: 0;
-        position: absolute;
-        height: 1.3em;
+        
     }
 }
 
 .body {
     text-align: center;
     width: 100%;
-    font-size: 2em;
     padding: 0;
     margin: 0;
+    padding-top: 35vh;
     
-    .wrap {
-        width: 90%;
-        max-width: 30em;
-        text-align: left;
-        display: inline-block;
-        padding-bottom: 2.5em;
-        margin-top: 4em;
-//        background-color: red;
-        
-        &.wider {
-            max-width: 40em;
-        }
-    }
-    
-    h1 {
-        padding-bottom: .4em;
-    }
-    
-    h2 {
-        padding: .35em 0 .05em 0;
-    }
-    
-    h3 {
-        font-weight: 500;
-        text-align: center;
-        margin-top: .8em;
-        font-size: 2.0em;
-    }
-    
-    p, li {
-        padding-bottom: .1em;
-    }
-        
-    strong {
-        padding: 0 .3em;
-        background-color: black;
-        color: white;
-    }
-
-    em {
-        padding: 0 .3em;
-        background-color: black;
-        color: white;
-        font-weight: 900;
-    }
-    
-    a {
-        padding: 0 .3em;
-        background-color: black;
-        color: white;
-        
-        &:active {
-            background-color: white;
-            color: black;
-        }
-        
-        &.img {
-            background-color: rgba(0,0,0,0);
-        }
-        
-        &[href="https://instagram.com/erikonijn/"] {
-            background-color: $insta;
-            box-shadow: 0 0px 0 white inset, 0 0px 0 $insta;
-            transition: box-shadow .1s, color .1s;
-            
-            &:hover {
-                color: $insta;
-                box-shadow: 0 -2.5em 0 white inset, 5px 5px 0 $insta;
-            }
-        }
-        
-        &[href="https://www.youtube.com/channel/UC6NGVtDYPDnPO3sxpAfRhBw/"] {
-            background-color: $yt;
-            box-shadow: 0 0px 0 white inset, 0 0px 0 $yt;
-            transition: box-shadow .15s, color .1s;
-            
-            &:hover {
-                color: $yt;
-                box-shadow: 0 -2.5em 0 white inset, 5px 5px 0 $yt;
-            }
-        }
-        
-        &[href="https://soundcloud.com/erikonijn"] {
-            background-color: $sc;
-            box-shadow: 0 0px 0 white inset, 0 0px 0 $sc;
-            transition: box-shadow .15s, color .1s;
-            
-            &:hover {
-                color: $sc;
-                box-shadow: 0 -2.5em 0 white inset, 5px 5px 0 $sc;
-            }
-        }
-    }
-}
-
-.imgwrap {
-//    background-color: #f88;
-    text-align: center;
-    
-    a.img {
-        padding: 0;
-//        background-color: #8ff;
-        display: inline-block;
-        height: 5em;
-        width: 8em;
-        background-size: cover;
-        background-position: center;
-        overflow: hidden;
-        
-        &:hover {
-            &:after {
-                display: inline-block;
-                height: 5em;
-                width: 8em;
-                background-color: rgba(0,0,0,0.5);
-                content: "\Ago to post \A→";
-                white-space: pre;
-                font-weight: 900;
-            }
-        }
-    }
-    
-    &.homep a.img {
-        margin: 0em .5em 0 .5em;
-        width: 16em;
-        height: 10em;
-        
-        &:hover {
-            &:after {
-                display: inline-block;
-                padding-top: 2em;
-                height: 10em;
-                width: 16em;
-                background-color: rgba(0,0,0,0.5);
-                content: "\Ago to post \A→";
-                white-space: pre;
-                font-weight: 900;
-            }
-        }
-    }
-}
-
-.hdimgwrap{
-    text-align: center;
-    a {
-        background-color: rgba(0,0,0,0);
-    }
-    .hdimg {
-        max-width: 100%;
-        max-height: 20em;
-    }
-}
-
-.tablewrap {
-    table.heade {
-        margin: 0.5em auto .5em auto;
-        width: 85%;
-
-        tr {
-            display: table-row;
-            width: 100%;
-
-            td {
-                width: 50%;
-                text-align: center;
-                font-weight: 900;
-            }
-        }
+    p {
+        margin-bottom: 8pt;
     }
 }
 
@@ -272,12 +86,12 @@ a {
             display: block;
         }
     }
-    .wrap {
-        margin-top: 10em !important;
-    }
-    h3 {
-        margin-top: 0!important;
-    }
+//    .wrap {
+//        margin-top: 10em !important;
+//    }
+//    h3 {
+//        margin-top: 0!important;
+//    }
 }
 
 

@@ -1,14 +1,19 @@
 ---
 title: home
 permalink: "/"
-layout: default
+layout: home
 category: Home
 ---
 
-### click a **link** above or below
 
-hi
+**erik konijn**
 
-### [instagram](https://instagram.com/erikonijn/){:target="_blank"} [youtube](https://www.youtube.com/channel/UC6NGVtDYPDnPO3sxpAfRhBw/){:target="_blank"} [soundcloud](https://soundcloud.com/erikonijn){:target="_blank"}
+music & audio & film & video & graphic design & visuals & editing & art
 
-### recent content:
+&nbsp;
+
+[about](/about)
+
+[projects & credits](/credits)
+
+[contact](/contact)

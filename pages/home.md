@@ -12,8 +12,12 @@ music & audio & film & video & graphic design & visuals & editing & art
 
 &nbsp;
 
-[about](/about)
+[*about*](/about)
 
-[projects & credits](/credits)
+[*projects & credits*](/credits)
 
-[contact](/contact)
+[*contact*](/contact)
+
+&nbsp;
+
+<img src="assets/me cropped.jpg" class="selfportrait">

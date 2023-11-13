@@ -31,7 +31,7 @@ body {
 
 a {
     text-decoration: none;
-    font-style: italic;
+//    font-style: italic;
     color: white;
     
     &:hover {
@@ -60,13 +60,28 @@ a {
 .body {
     text-align: center;
     width: 100%;
+    min-height: 80vh;
     padding: 0;
     margin: 0;
-    padding-top: 35vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center !important; /* align vertical */
     
     p {
         margin-bottom: 8pt;
     }
+    
+    .wrap {
+        width: 60em;
+        max-width: 90%;
+    }
+}
+
+.selfportrait {
+    height:140pt;
+    width: 140pt;
 }
 
 @media only screen and (max-width: 1070px) {  //collapse menu at width 1420px or smaller (that's when menu breaks)

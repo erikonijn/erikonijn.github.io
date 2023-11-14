@@ -59,16 +59,30 @@ camera, lighting, editing, colour
 
 ***Showtime!*** (2022, Short Film, 3m)
 
-writer, director gaffer, editor, sound mixer
+writer, director gaffer, editor, sound mixer  
+short film written, directed and shot during my course at IADT
 
 ***The Divine Tragedy*** (2020, [Short Film](https://www.youtube.com/watch?v=LD-LM9sHa4o), 6m)
 
-writer, director, producer, gaffer, editor, sound mixer
+writer, director, producer, gaffer, editor, sound mixer  
+personal project filmed with a tiny crew during during the covid pandemic
 
 ***I'm Tired, I Don't Want To Talk*** (2020, [Short Film](https://www.youtube.com/watch?v=8qIPz5Ij0AI), 8m)
 
-gaffer, colour, titles
+gaffer, colour, titles  
+filmed at the EFC, worked closely with the director to achieve his vision
+
+***Collapsing Dreams*** (2020, [Short Film](https://www.youtube.com/watch?v=oZQgsShNcfM), 9m)
+
+gaffer, camera assistant, additional vfx
+filmed at the EFC
+
+***Making Me Work*** (2019, [Short Course Film](https://www.youtube.com/watch?v=4OHWa-E9m2E), 3m)
+
+camera assistant, colouring assistant, titles  
+EFC project, worked closely with the colorist to finish the grade
 
 ***Rent A Pickle*** (2018, [Comedy Short](https://www.youtube.com/watch?v=A7AWXalCEYM), 1m)
 
-writer, director, camera, editor
+writer, director, camera, editor  
+early comedy short from when I was 17

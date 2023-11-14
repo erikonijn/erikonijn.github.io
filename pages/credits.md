@@ -74,7 +74,7 @@ filmed at the EFC, worked closely with the director to achieve his vision
 
 ***Collapsing Dreams*** (2020, [Short Film](https://www.youtube.com/watch?v=oZQgsShNcfM), 9m)
 
-gaffer, camera assistant, additional vfx
+gaffer, camera assistant, additional vfx  
 filmed at the EFC
 
 ***Making Me Work*** (2019, [Short Course Film](https://www.youtube.com/watch?v=4OHWa-E9m2E), 3m)

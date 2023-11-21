@@ -7,8 +7,5 @@ category: Home
 
 [**erik konijn**](/)
 
-find me online
-
-[instagram](https://instagram.com/erikonijn)
-
-or email me at [erikonijn@gmail.com](mailto:erikonijn@gmail.com)
+find me here  
+[instagram](https://instagram.com/erikonijn){:target="_blank"} or email me at [erikonijn@gmail.com](mailto:erikonijn@gmail.com)

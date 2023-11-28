@@ -13,7 +13,7 @@ an incomplete & select list of the projects i've worked on...
 
 **music**
 
-*Emma Noodles - Sore Heart* (**Single**)  
+*Emma Noodles - Sore Heart* ([**Single**](https://open.spotify.com/track/0W4XczWMmB4Du4RCpFaxyr))  
 Nov 2023 / recording, writing, production, mix, master
 
 *Bruising Shins - Sober In The Theatre* ([**Single**](https://open.spotify.com/album/0437vSbkj2DDfgCpPDZAWp){:target="_blank"})  

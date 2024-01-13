@@ -13,6 +13,9 @@ an incomplete & select list of the projects i've worked on...
 
 **music**
 
+*MT.Heads - Dirty Emeralds* ([**Single**](https://open.spotify.com/track/4gnLg1WABmBM4Pk99tndNj))  
+Jan 2024 / additional mixing
+
 *Emma Noodles - Sore Heart* ([**Single**](https://open.spotify.com/track/0W4XczWMmB4Du4RCpFaxyr))  
 Nov 2023 / recording, writing, production, mix, master
 

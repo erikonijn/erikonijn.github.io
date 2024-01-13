@@ -13,6 +13,9 @@ an incomplete & select list of the projects i've worked on...
 
 **music**
 
+*NO PHOTOS - Sundays are Always Quiet* (**Single**)  
+Jan 2024 / recording, writing, production, mix, master
+
 *MT.Heads - Dirty Emeralds* ([**Single**](https://open.spotify.com/track/4gnLg1WABmBM4Pk99tndNj){:target="_blank"})  
 Jan 2024 / additional mixing
 

@@ -16,7 +16,7 @@ an incomplete & select list of the projects i've worked on...
 *Emma Noodles - Spare Key* (**Single**)  
 Feb 2023 / recording, writing, production, mix, master
 
-*NO PHOTOS - Sundays are Always Quiet* ([**Single**](https://open.spotify.com/track/5ZRKBK7ZQ7QPoIXUHp1kp4?si=f2b9864d1b584a55){:target="_blank"})  
+*NO PHOTOS - Sundays Are Always Quiet* ([**Single**](https://open.spotify.com/track/5ZRKBK7ZQ7QPoIXUHp1kp4){:target="_blank"})  
 Jan 2024 / recording, writing, production, mix, master
 
 *MT.Heads - Dirty Emeralds* ([**Single**](https://open.spotify.com/track/4gnLg1WABmBM4Pk99tndNj){:target="_blank"})  

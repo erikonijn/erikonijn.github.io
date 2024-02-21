@@ -68,7 +68,7 @@ short film written, directed and shot during my course at IADT
 ***The Divine Tragedy*** (2020, [**Short Film**](https://www.youtube.com/watch?v=LD-LM9sHa4o){:target="_blank"}, 6m)
 
 writer, director, producer, gaffer, editor, sound mixer  
-personal project filmed with a tiny crew during during the covid pandemic
+personal project filmed with a tiny crew during the covid pandemic
 
 ***I'm Tired, I Don't Want To Talk*** (2020, [**Short Film**](https://www.youtube.com/watch?v=8qIPz5Ij0AI){:target="_blank"}, 8m)
 

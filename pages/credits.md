@@ -13,6 +13,9 @@ an incomplete & select list of the projects i've worked on...
 
 **music**
 
+*Bruising Shins - Spit* ([**Single**](/){:target="_blank"})  
+Apr 2024 / recording, production, mix, master
+
 *Emma Noodles - Spare Key* ([**Single**](https://open.spotify.com/track/05i9DJx3MjpEM59PEcrcVJ?si=6a0b0c693e0d4b0e))  
 Feb 2023 / recording, writing, production, mix, master
 

@@ -13,11 +13,11 @@ an incomplete & select list of the projects i've worked on...
 
 **music**
 
-*MT.Heads - Nothing More* ([**Single**](https://open.spotify.com/track/0bOswfEnqo5ZRtgcyS3JBc){:target="_blank"})  
-Mar 2024 / mix
-
 *Bruising Shins - Spit* ([**Single**](/){:target="_blank"})  
 Apr 2024 / recording, production, mix, master
+
+*MT.Heads - Nothing More* ([**Single**](https://open.spotify.com/track/0bOswfEnqo5ZRtgcyS3JBc){:target="_blank"})  
+Mar 2024 / mix
 
 *Emma Noodles - Spare Key* ([**Single**](https://open.spotify.com/track/05i9DJx3MjpEM59PEcrcVJ?si=6a0b0c693e0d4b0e))  
 Feb 2024 / recording, writing, production, mix, master

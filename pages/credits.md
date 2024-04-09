@@ -13,7 +13,7 @@ an incomplete & select list of the projects i've worked on...
 
 **music**
 
-*Bruising Shins - Spit* ([**Single**](/){:target="_blank"})  
+*Bruising Shins - Spit* ([**Single**]([/](https://open.spotify.com/track/6fwuLL3v9XfESa2zM0Jtmj){:target="_blank"})  
 Apr 2024 / recording, production, mix, master
 
 *MT.Heads - Nothing More* ([**Single**](https://open.spotify.com/track/0bOswfEnqo5ZRtgcyS3JBc){:target="_blank"})  

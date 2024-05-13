@@ -13,13 +13,19 @@ an incomplete & select list of the projects i've worked on...
 
 **music**
 
+*NO PHOTOS - Slippy* ([**Single**](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem){:target="_blank"})  
+May 2024 / recording, writing, production, mix, master
+
+*Emma Noodles - Veins* ([**Single**](https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9){:target="_blank"})  
+May 2024 / recording, production, mix, master
+
 *Bruising Shins - Spit* ([**Single**](https://open.spotify.com/track/6fwuLL3v9XfESa2zM0Jtmj){:target="_blank"})  
 Apr 2024 / recording, production, mix, master
 
 *MT.Heads - Nothing More* ([**Single**](https://open.spotify.com/track/0bOswfEnqo5ZRtgcyS3JBc){:target="_blank"})  
 Mar 2024 / mix
 
-*Emma Noodles - Spare Key* ([**Single**](https://open.spotify.com/track/05i9DJx3MjpEM59PEcrcVJ?si=6a0b0c693e0d4b0e))  
+*Emma Noodles - Spare Key* ([**Single**](https://open.spotify.com/track/05i9DJx3MjpEM59PEcrcVJ){:target="_blank"})  
 Feb 2024 / recording, writing, production, mix, master
 
 *NO PHOTOS - Sundays Are Always Quiet* ([**Single**](https://open.spotify.com/track/5ZRKBK7ZQ7QPoIXUHp1kp4){:target="_blank"})  

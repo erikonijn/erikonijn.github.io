@@ -13,7 +13,7 @@ an incomplete & select list of the projects i've worked on...
 
 **music**
 
-*NO PHOTOS - Slippy* ([**Single**](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem){:target="_blank"})  
+*NO PHOTOS - Blink And You Miss It* ([**EP**](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem){:target="_blank"}, all tracks)  
 May 2024 / recording, writing, production, mix, master
 
 *Emma Noodles - Veins* ([**Single**](https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9){:target="_blank"})  
@@ -37,7 +37,7 @@ Jan 2024 / additional mixing
 *Emma Noodles - Sore Heart* ([**Single**](https://open.spotify.com/track/0W4XczWMmB4Du4RCpFaxyr){:target="_blank"})  
 Nov 2023 / recording, production, mix, master
 
-*Bruising Shins - Sober In The Theatre* ([**Single**](https://open.spotify.com/album/0437vSbkj2DDfgCpPDZAWp){:target="_blank"})  
+*Bruising Shins - Sober In The Theatre / Mindkiller* ([**Single**](https://open.spotify.com/album/0437vSbkj2DDfgCpPDZAWp){:target="_blank"})  
 Oct 2023 / recording, production, mix, master
 
 *NO PHOTOS - Greyhound* ([**Single**](https://open.spotify.com/album/2R457N9XlrnMJdnvZE4q2V){:target="_blank"})  
@@ -46,13 +46,13 @@ Oct 2023 / recording, writing, production, mix, master
 *Emma Noodles - The Stars We Shine* ([**Single**](https://open.spotify.com/album/7HXTeseYwEi2fgcmYpq4qu){:target="_blank"})  
 Sept 2023 / recording, production, mix, master
 
-*NO PHOTOS - Can This Change?* ([**EP**](https://open.spotify.com/album/0sijKgdoaWeKyngvVT23yn){:target="_blank"})  
+*NO PHOTOS - Can This Change?* ([**EP**](https://open.spotify.com/album/0sijKgdoaWeKyngvVT23yn){:target="_blank"}, all tracks)  
 Jun 2023 / recording, writing, production, mix, master
 
 *Bruising Shins - Hidden Hereafter* ([**Single**](https://open.spotify.com/album/63VU7yNs8JFqjPsmHcXGPy){:target="_blank"})  
 Mar 2023 / recording, production, mix, master
 
-*NO PHOTOS - NO PHOTOS* ([**Mixtape**](https://open.spotify.com/album/0fMPF7QZwCUTGZvO5rUfLn){:target="_blank"})  
+*NO PHOTOS - NO PHOTOS* ([**Mixtape**](https://open.spotify.com/album/0fMPF7QZwCUTGZvO5rUfLn){:target="_blank"}, all tracks)  
 May 2022 / recording, writing, production, mix, master
 
 &nbsp;

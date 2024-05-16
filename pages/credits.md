@@ -71,7 +71,7 @@ cinematography, lighting, colour
 *No Photos - Anything* ([**Music Video**](https://www.youtube.com/watch?v=FLsiKtxCBB4){:target="_blank"}, July 2023)  
 camera, lighting, editing, colour
 
-*No Photos - Everything In Pink* ([**Music Video**](https://www.youtube.com/watch?v=32tCUHaJBYU){:target="_blank"}, Mar 2023)
+*No Photos - Everything In Pink* ([**Music Video**](https://www.youtube.com/watch?v=32tCUHaJBYU){:target="_blank"}, Mar 2023)  
 camera, editing
 
 &nbsp;

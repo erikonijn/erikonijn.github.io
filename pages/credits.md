@@ -7,7 +7,7 @@ category: Home
 
 [***erik konijn***](/)
 
-an incomplete & select list of the projects i've worked on...
+an incomplete & selected list of the projects i've worked on...
 
 &nbsp;
 
@@ -71,6 +71,9 @@ cinematography, lighting, colour
 *No Photos - Anything* ([**Music Video**](https://www.youtube.com/watch?v=FLsiKtxCBB4){:target="_blank"}, July 2023)  
 camera, lighting, editing, colour
 
+*No Photos - Everything In Pink* ([**Music Video**](https://www.youtube.com/watch?v=32tCUHaJBYU){:target="_blank"}, Mar 2023)
+camera, editing
+
 &nbsp;
 
 **film**
@@ -94,11 +97,6 @@ filmed at the EFC, worked closely with the director to achieve his vision
 
 gaffer, camera assistant, additional vfx  
 filmed at the EFC
-
-***Making Me Work*** (2019, [**Short Course Film**](https://www.youtube.com/watch?v=4OHWa-E9m2E){:target="_blank"}, 3m)
-
-camera assistant, colouring assistant, titles  
-EFC project, worked closely with lead colorist on the grade
 
 ***Rent A Pickle*** (2018, [**Comedy Short**](https://www.youtube.com/watch?v=A7AWXalCEYM){:target="_blank"}, 1m)
 

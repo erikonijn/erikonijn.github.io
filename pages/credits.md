@@ -13,6 +13,9 @@ an incomplete & selected list of the projects i've worked on...
 
 **music**
 
+*Emma Noodles - Breath Away* ([**Single**](https://open.spotify.com/track/5TV80ci3nFdcsDPC6KRBo3){:target="_blank"})  
+June 2024 / recording, production, mix, master
+
 *NO PHOTOS - Blink And You Miss It* ([**EP**](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem){:target="_blank"}, all tracks)  
 May 2024 / recording, writing, production, mix, master
 

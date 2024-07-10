@@ -13,6 +13,9 @@ an incomplete & selected list of the projects i've worked on...
 
 **music**
 
+*Bruising Shins - Anxiety* ([**EP**](https://open.spotify.com/album/5gMzEEgVEQlsDeEJzcxoPy){:target="_blank"})  
+July 2024 / recording, production, mix, re/master
+
 *Emma Noodles - Breath Away* ([**Single**](https://open.spotify.com/track/5TV80ci3nFdcsDPC6KRBo3){:target="_blank"})  
 June 2024 / recording, production, mix, master
 

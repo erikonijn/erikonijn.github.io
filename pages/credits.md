@@ -13,7 +13,7 @@ an incomplete & selected list of the projects i've worked on...
 
 **music**
 
-*Emma Noodles - Space Cowboy* ([**Single**](#){:target="_blank"})  
+*Emma Noodles - Space Cowboy* ([**Single**](https://open.spotify.com/track/6qcC0NPi2KmJCJrvRdVXlG){:target="_blank"})  
 Sept 2024 / recording, production, mix, master
 
 *Bruising Shins - Anxiety* ([**EP**](https://open.spotify.com/album/5gMzEEgVEQlsDeEJzcxoPy){:target="_blank"})  

@@ -13,7 +13,7 @@ an incomplete & selected list of the projects i've worked on...
 
 **music**
 
-*Bruising Shins - The Rest of Anywhere  * ([**Single**](https://open.spotify.com/track/6vwySst3RgA7zHos13xwaD){:target="_blank"})  
+*Bruising Shins - The Rest of Anywhere* ([**Single**](https://open.spotify.com/track/6vwySst3RgA7zHos13xwaD){:target="_blank"})  
 Oct 2024 / recording, production, mix, master
 
 *Emma Noodles - Space Cowboy* ([**Single**](https://open.spotify.com/track/6qcC0NPi2KmJCJrvRdVXlG){:target="_blank"})  

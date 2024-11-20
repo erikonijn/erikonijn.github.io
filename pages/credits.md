@@ -59,7 +59,7 @@ Oct 2023 / recording, writing, production, mix, master
 Sept 2023 / recording, production, mix, master
 
 *NO PHOTOS - Can This Change?* ([**EP**](https://open.spotify.com/album/0sijKgdoaWeKyngvVT23yn){:target="_blank"}, all tracks)  
-Jun 2023 / recording, writing, production, mix, master
+June 2023 / recording, writing, production, mix, master
 
 *Bruising Shins - Hidden Hereafter* ([**Single**](https://open.spotify.com/album/63VU7yNs8JFqjPsmHcXGPy){:target="_blank"})  
 Mar 2023 / recording, production, mix, master

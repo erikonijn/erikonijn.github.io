@@ -13,6 +13,9 @@ an incomplete & selected list of the projects i've worked on...
 
 **music**
 
+*reii - chemicals* (**Single**)  
+Mar 2025 / master
+
 *Bruising Shins - The Rest of Anywhere* ([**Single**](https://open.spotify.com/track/6vwySst3RgA7zHos13xwaD){:target="_blank"})  
 Oct 2024 / recording, production, mix, master
 

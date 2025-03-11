@@ -13,6 +13,9 @@ an incomplete & selected list of the projects i've worked on...
 
 **music**
 
+*Emma Noodles - Forever* (**Single**)  
+Mar 2025 / recording, production, mix, master
+
 *reii - chemicals* (**Single**)  
 Mar 2025 / master
 

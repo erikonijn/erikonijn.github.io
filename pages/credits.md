@@ -13,7 +13,7 @@ an incomplete & selected list of the projects i've worked on...
 
 **music**
 
-select discography: [spotify playlist](https://open.spotify.com/playlist/78OtVmRLnebhOizDaa6j27)
+*select discography: [**spotify playlist**](https://open.spotify.com/playlist/78OtVmRLnebhOizDaa6j27)*
 
 &nbsp;
 

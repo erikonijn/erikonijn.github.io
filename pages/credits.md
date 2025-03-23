@@ -13,6 +13,10 @@ an incomplete & selected list of the projects i've worked on...
 
 **music**
 
+select discography: [spotify playlist](https://open.spotify.com/playlist/78OtVmRLnebhOizDaa6j27)
+
+&nbsp;
+
 *Emma Noodles - Forever* (**Single**)  
 Mar 2025 / recording, production, mix, master
 

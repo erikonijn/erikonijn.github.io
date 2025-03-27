@@ -20,7 +20,7 @@ an incomplete & selected list of the projects i've worked on...
 *Emma Noodles - Forever* ([**Single**](https://open.spotify.com/track/4urdojDnWsbUHNHftNkiKH){:target="_blank"})  
 Mar 2025 / recording, writing, production, mix, master
 
-*reii - chemicals* ([**Single**](https://open.spotify.com/track/6whsCmxIdNRXRPPhWKWPK9))  
+*reii - chemicals* ([**Single**](https://open.spotify.com/track/6whsCmxIdNRXRPPhWKWPK9){:target="_blank"})  
 Mar 2025 / master
 
 *Bruising Shins - The Rest of Anywhere* ([**Single**](https://open.spotify.com/track/6vwySst3RgA7zHos13xwaD){:target="_blank"})  

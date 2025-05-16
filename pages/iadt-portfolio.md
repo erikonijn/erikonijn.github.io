@@ -53,5 +53,6 @@ A 14-page fanzine I designed for a Music Industries class in my first year. Stil
 
 **Other Things**
 
+- Other projects during my 4 years at IADT included mini-documentaries, podcasts, news articles, websites and other visual art.
 - In December 2023, I helped organize a charity concert in the Chapel, raising funds for the PCRF
-- In Jan-Mar 2024, I participated in a Student Enterprise Bootcamp - my pitch won the "Best Pitch" award and a trip to a film symposium in Lisbon!
+- In Jan-Mar 2024, I participated in a Student Enterprise Bootcamp - our pitch won the "Best Pitch" award and a trip to a film symposium in Lisbon!

@@ -76,6 +76,12 @@ a {
     .wrap {
         width: 60em;
         max-width: 90%;
+        justify-content: center;
+        
+        ul {
+            display: inline-block;
+            width: 60%;
+        }
     }
 }
 

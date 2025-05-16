@@ -17,6 +17,12 @@ an incomplete & selected list of the projects i've worked on...
 
 &nbsp;
 
+*NO PHOTOS - New House* (**Single**)  
+May 2025 / recording, writing, production, mix, master
+
+*Bruising Shins - Tainted Memories* ([**Single**](https://open.spotify.com/track/1fnGzQWA5EsVABeHndVi2h){:target="_blank"})  
+Apr 2025 / recording, production, mix, master
+
 *Emma Noodles - Forever* ([**Single**](https://open.spotify.com/track/4urdojDnWsbUHNHftNkiKH){:target="_blank"})  
 Mar 2025 / recording, writing, production, mix, master
 

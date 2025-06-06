@@ -17,8 +17,6 @@ Below you can find a showcase of some of my work made at IADT Dun Laoghaire in t
 
 This video essay was my Final Year Project - my thesis if you will. It explores how the films of Jane Schoenbrun wrestle with the concepts of technology, identity and the screen, through analysing their films *A Self-Induced Hallucination* (2018), *We're All Going to the World's Fair* (2021) and *I Saw the TV Glow* (2024).
 
-Also available as an [essay](https://onshow2025.iadt.ie/sites/default/files/2025-05/Erik%20Konijn%20-%20Finding%20Yourself%20in%20the%20Light%20of%20the%20Screen.pdf), with some minor elaborations and a full bibliography.
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MO75Ad5_dM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 &nbsp;

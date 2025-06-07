@@ -11,7 +11,7 @@ an incomplete & selected list of the projects i've worked on...
 
 &nbsp;
 
-**music**
+## **music**
 
 *select discography: [**spotify playlist**](https://open.spotify.com/playlist/78OtVmRLnebhOizDaa6j27)*
 
@@ -85,7 +85,7 @@ May 2022 / recording, writing, production, mix, master
 
 &nbsp;
 
-**music videos**
+## **music videos**
 
 *No Photos - Slippy* ([**Music Video**](https://www.youtube.com/watch?v=H1552HzV140){:target="_blank"}, May 2024)  
 cinematography, editing, colour
@@ -107,7 +107,7 @@ camera, editing
 
 &nbsp;
 
-**film**
+## **film**
 
 ***"When I Get Rich"*** (2023, [**Short Film**](https://www.youtube.com/watch?v=Gq_cpjxog2g){:target="_blank"}, 3m)
 

@@ -17,7 +17,7 @@ an incomplete & selected list of the projects i've worked on...
 
 &nbsp;
 
-*NO PHOTOS - New House* (**Single**)  
+*NO PHOTOS - New House* ([**Single**](https://open.spotify.com/track/4iFDZY8bdYH6SnSJW42etB?si=defe93afe5c945c1){:target="_blank"})  
 May 2025 / recording, writing, production, mix, master
 
 *Bruising Shins - Tainted Memories* ([**Single**](https://open.spotify.com/track/1fnGzQWA5EsVABeHndVi2h){:target="_blank"})  
@@ -109,10 +109,15 @@ camera, editing
 
 **film**
 
+***"When I Get Rich"*** (2023, [**Short Film**](https://www.youtube.com/watch?v=Gq_cpjxog2g){:target="_blank"}, 3m)
+
+writer, director, editor, music
+short comedy film shot during my course at IADT
+
 ***Showtime!*** (2022, [**Short Film**](https://www.youtube.com/watch?v=dALkiq4u1Rw){:target="_blank"}, 3m)
 
-writer, director gaffer, editor, sound mixer  
-short film written, directed and shot during my course at IADT
+writer, director, gaffer, editor, sound mixer  
+short dramedy film shot during my course at IADT
 
 ***The Divine Tragedy*** (2020, [**Short Film**](https://www.youtube.com/watch?v=LD-LM9sHa4o){:target="_blank"}, 6m)
 
@@ -122,7 +127,7 @@ personal project filmed with a tiny crew during the covid pandemic
 ***I'm Tired, I Don't Want To Talk*** (2020, [**Short Film**](https://www.youtube.com/watch?v=8qIPz5Ij0AI){:target="_blank"}, 8m)
 
 gaffer, colour, titles  
-filmed at the EFC, worked closely with the director to achieve his vision
+filmed at the EFC, was part of the core team to achieve the director's vision
 
 ***Collapsing Dreams*** (2020, [**Short Film**](https://www.youtube.com/watch?v=oZQgsShNcfM){:target="_blank"}, 9m)
 
@@ -132,4 +137,4 @@ filmed at the EFC
 ***Rent A Pickle*** (2018, [**Comedy Short**](https://www.youtube.com/watch?v=A7AWXalCEYM){:target="_blank"}, 1m)
 
 writer, director, camera, editor  
-early comedy short from when I was 17
+early comedy short from when I was 17!

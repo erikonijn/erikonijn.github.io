@@ -33,7 +33,7 @@ A short comedy film I wrote & directed for a Media Production course in my 2nd y
 
 ***Showtime!* (Short Film, 2022)**
 
-A short drama-comedy thing I write & directed in my first year, about two aspiring actors whose ambitions come to a head on stage... Also a fun exercise in lighting and framing!
+A short drama-comedy thing I wrote & directed in my first year, about two aspiring actors whose ambitions come to a head on stage... Also a fun exercise in lighting and framing!
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dALkiq4u1Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

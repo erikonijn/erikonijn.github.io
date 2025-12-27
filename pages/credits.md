@@ -17,7 +17,31 @@ an incomplete & selected list of the projects i've worked on...
 
 &nbsp;
 
-*NO PHOTOS - New House* ([**Single**](https://open.spotify.com/track/4iFDZY8bdYH6SnSJW42etB?si=defe93afe5c945c1){:target="_blank"})  
+*NO PHOTOS - I Didn't Even Bury You* ([**Single**](https://open.spotify.com/track/7yFiwxN5dtFxTAMtoAwom9){:target="_blank"})  
+Dec 2025 / recording, writing, production, mix, master
+
+*NO PHOTOS - Not That Bad* ([**Single**](https://open.spotify.com/track/1LbRznfgudwSZrfSsXLbZ9){:target="_blank"})  
+Oct 2025 / recording, writing, production, mix, master
+
+*reii & Becky McNeice - love is everywhere* ([**Single**](https://open.spotify.com/track/54wXbWfJXwPkCWgiX16dQD){:target="_blank"})  
+Sept 2025 / master
+
+*Emma Noodles - Thief* ([**Single**](https://open.spotify.com/track/39HeiB6lYJZ3IaYGrfiIAg){:target="_blank"})  
+Sept 2025 / recording, writing, production, mix, master
+
+*Bruising Shins - Paper Thin Skin* ([**EP**](https://open.spotify.com/album/06jyUwZ1zvOC5VS77BYnXq){:target="_blank"})  
+Sept 2025 / recording, production, mix, master
+
+*NO PHOTOS - Youth* ([**Single**](https://open.spotify.com/track/3eGusw0n7vQdgqS4ZHZTBZ){:target="_blank"})  
+Jul 2025 / recording, writing, production, mix, master
+
+*Bruising Shins - Chapter in Mine* ([**Single**](https://open.spotify.com/track/6queAFtHkBusGLeKqJq0Ld){:target="_blank"})  
+Jun 2025 / recording, production, mix, master
+
+*Bruising Shins - Fresh Freedom* ([**Single**](https://open.spotify.com/track/0GyaMCCjpXiDdfsQUjLmwt){:target="_blank"})  
+May 2025 / recording, production, mix, master
+
+*NO PHOTOS - New House* ([**Single**](https://open.spotify.com/track/4iFDZY8bdYH6SnSJW42etB){:target="_blank"})  
 May 2025 / recording, writing, production, mix, master
 
 *Bruising Shins - Tainted Memories* ([**Single**](https://open.spotify.com/track/1fnGzQWA5EsVABeHndVi2h){:target="_blank"})  

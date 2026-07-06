@@ -17,6 +17,21 @@ an incomplete & selected list of the projects i've worked on...
 
 &nbsp;
 
+*NO PHOTOS - Strand* ([**Single**](https://open.spotify.com/album/01QTRoaRh2Zf7p7QqImGyZ){:target="_blank"})  
+Apr 2026 / recording, writing, production, mix, master, album packaging
+
+*NO PHOTOS - I Love You So Much* ([**Single**](https://open.spotify.com/track/7hT2ECfc45wufKbGSxwpit){:target="_blank"})  
+Apr 2026 / recording, writing, production, mix, master
+
+*Emma Noodles - Rotten Plant* ([**Single**](https://open.spotify.com/track/2GCw75Ee6iKscv9BTXRwiV){:target="_blank"})  
+Apr 2026 / recording, writing, production, mix, master
+
+*NO PHOTOS - I Lost Myself Today* ([**Single**](https://open.spotify.com/track/64DTHiTUjcH519rkCxCqpa){:target="_blank"})  
+Feb 2026 / recording, writing, production, mix, master
+
+*MT.Heads - freezing over* ([**Single**](https://open.spotify.com/track/0cppNfKQfa9aS1k6vAk3w8){:target="_blank"})  
+Jan 2026 / mix, master
+
 *NO PHOTOS - I Didn't Even Bury You* ([**Single**](https://open.spotify.com/track/7yFiwxN5dtFxTAMtoAwom9){:target="_blank"})  
 Dec 2025 / recording, writing, production, mix, master
 
@@ -110,6 +125,15 @@ May 2022 / recording, writing, production, mix, master
 &nbsp;
 
 ## **music videos**
+
+*No Photos - I Love You So Much* ([**Music Video**](https://www.youtube.com/watch?v=9akTq8Cfezo){:target="_blank"}, May 2026)  
+directing, editing, colour
+
+*No Photos - I Didn't Even Bury You* ([**Music Video**](https://www.youtube.com/watch?v=9akTq8Cfezo){:target="_blank"}, Apr 2026)  
+cinematography, editing, colour
+
+*No Photos - Not That Bad* ([**Music Video**](https://www.youtube.com/watch?v=pag4r58O8rc){:target="_blank"}, Dec 2026)  
+editing, colour
 
 *No Photos - Slippy* ([**Music Video**](https://www.youtube.com/watch?v=H1552HzV140){:target="_blank"}, May 2024)  
 cinematography, editing, colour

@@ -17,7 +17,7 @@ an incomplete & selected list of the projects i've worked on...
 
 &nbsp;
 
-*NO PHOTOS - Strand* ([**Single**](https://open.spotify.com/album/01QTRoaRh2Zf7p7QqImGyZ){:target="_blank"})  
+*NO PHOTOS - Strand* ([**Album**](https://open.spotify.com/album/01QTRoaRh2Zf7p7QqImGyZ){:target="_blank"})  
 Apr 2026 / recording, writing, production, mix, master, album packaging
 
 *NO PHOTOS - I Love You So Much* ([**Single**](https://open.spotify.com/track/7hT2ECfc45wufKbGSxwpit){:target="_blank"})  

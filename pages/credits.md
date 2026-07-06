@@ -132,7 +132,7 @@ directing, editing, colour
 *No Photos - I Didn't Even Bury You* ([**Music Video**](https://www.youtube.com/watch?v=9akTq8Cfezo){:target="_blank"}, Apr 2026)  
 cinematography, editing, colour
 
-*No Photos - Not That Bad* ([**Music Video**](https://www.youtube.com/watch?v=pag4r58O8rc){:target="_blank"}, Dec 2026)  
+*No Photos - Not That Bad* ([**Music Video**](https://www.youtube.com/watch?v=pag4r58O8rc){:target="_blank"}, Dec 2025)  
 editing, colour
 
 *No Photos - Slippy* ([**Music Video**](https://www.youtube.com/watch?v=H1552HzV140){:target="_blank"}, May 2024)  

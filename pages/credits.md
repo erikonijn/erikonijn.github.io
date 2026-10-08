@@ -17,6 +17,9 @@ an incomplete & selected list of the projects i've worked on...
 
 &nbsp;
 
+*NO PHOTOS - Red Hot* ([**Single**](https://open.spotify.com/track/3biCLTLR5BAGWVBZkiMe96){:target="_blank"})  
+Sept 2026 / recording, writing, production, mix, master
+
 *NO PHOTOS - Strand* ([**Album**](https://open.spotify.com/album/01QTRoaRh2Zf7p7QqImGyZ){:target="_blank"})  
 Apr 2026 / recording, writing, production, mix, master, album packaging
 

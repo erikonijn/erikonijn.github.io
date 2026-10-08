@@ -39,6 +39,7 @@ a {
     }
 }
 
+<<<<<<< Updated upstream
 h1, h2 {
     font-size: 1em;
     margin-bottom: 8pt;
@@ -62,6 +63,8 @@ h1, h2 {
     }
 }
 
+=======
+>>>>>>> Stashed changes
 .body {
     text-align: center;
     width: 100%;
@@ -93,31 +96,6 @@ h1, h2 {
 .selfportrait {
     height:140pt;
     width: 140pt;
-}
-
-@media only screen and (max-width: 1070px) {  //collapse menu at width 1420px or smaller (that's when menu breaks)
-    .title {
-        display: none!important;
-//        visibility: hidden;
-    }
-    .titlebar {
-        display: inline-block;
-        height: 15.5em;
-        position: absolute;
-        .menuL {
-            display: block;
-            text-align: center;
-        }
-        a.links {
-            display: block;
-        }
-    }
-//    .wrap {
-//        margin-top: 10em !important;
-//    }
-//    h3 {
-//        margin-top: 0!important;
-//    }
 }
 
 

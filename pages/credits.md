@@ -20,6 +20,9 @@ an incomplete & selected list of the projects i've worked on...
 *NO PHOTOS - Red Hot* ([**Single**](https://open.spotify.com/track/3biCLTLR5BAGWVBZkiMe96){:target="_blank"})  
 Sept 2026 / recording, writing, production, mix, master
 
+*MT.Heads - In Circles* ([**Single**](https://open.spotify.com/track/0zWjR4TV80oeNL81mVbmmQ){:target="_blank"})  
+Jul 2026 / master
+
 *NO PHOTOS - Strand* ([**Album**](https://open.spotify.com/album/01QTRoaRh2Zf7p7QqImGyZ){:target="_blank"})  
 Apr 2026 / recording, writing, production, mix, master, album packaging
 
@@ -128,6 +131,9 @@ May 2022 / recording, writing, production, mix, master
 &nbsp;
 
 ## **music videos**
+
+*No Photos - A Reason* ([**Music Video**](https://www.youtube.com/watch?v=ebfa7n7oyKE){:target="_blank"}, Jul 2026)  
+directing, editing, colour
 
 *No Photos - I Love You So Much* ([**Music Video**](https://www.youtube.com/watch?v=9akTq8Cfezo){:target="_blank"}, May 2026)  
 directing, editing, colour

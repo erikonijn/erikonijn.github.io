@@ -14,9 +14,7 @@ music & audio & film & video & graphic design & visuals & editing & art
 
 [***about***](/about)
 
-[***art direction & design portfolio***]()
-
-[***music projects & credits***](/credits)
+[***projects & credits***](/credits)
 
 [***contact***](/contact)
 
